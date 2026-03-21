@@ -169,7 +169,8 @@
 
 ## Примеры визуализаций
 
-(Динамика суммарного финансирования массовых сегментов ростом в 2014 году)(<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/05c9fc25-005b-47b6-af75-bd620793a22c" />
+- Динамика суммарного финансирования массовых сегментов ростом в 2014 году(<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/05c9fc25-005b-47b6-af75-bd620793a22c" />)
+- Динамика типичного размера раунда финансирования и Динамика общего количества раундов финансированияинамика общего количества раундов финансирования(<img width="837" height="552" alt="image" src="https://github.com/user-attachments/assets/49d4b6a4-88a4-4104-991e-59284f9861c1" />
 )
 
 ## 📈 Ключевые выводы
@@ -224,7 +225,7 @@
 ## 📎 Ссылки
 - [Исходные данные (инвестиции)](https://code.s3.yandex.net/datasets/cb_investments.zip)
 - [Исходные данные (возвраты)](https://code.s3.yandex.net/datasets/cb_returns.csv)
-- [Репозиторий с проектом](#) *(добавьте ссылку)*
+- [Репозиторий с проектом](startups-funding-research/cf3441f9-fd1f-4a0a-a716-7b3623588564.ipynb)*\
 
 ---
 
