@@ -225,7 +225,7 @@
 ## 📎 Ссылки
 - [Исходные данные (инвестиции)](https://code.s3.yandex.net/datasets/cb_investments.zip)
 - [Исходные данные (возвраты)](https://code.s3.yandex.net/datasets/cb_returns.csv)
-- [Репозиторий с проектом]([https://github.com/nastxqd/yandex_practicum_projects/blob/f35e8db2f6f22669adb3b8e691f2d60ddc1754e7/startups-funding-research/cf3441f9-fd1f-4a0a-a716-7b3623588564.ipynb)
+- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects/blob/fc6de8f879c8599b48e5e001221498d84b7fc789/startups-funding-research/cf3441f9-fd1f-4a0a-a716-7b3623588564.ipynb)
 ---
 
 ## ✉️ Автор
