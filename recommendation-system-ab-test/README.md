@@ -177,7 +177,7 @@
 - [Исторические данные](https://code.s3.yandex.net/datasets/sessions_project_history.csv)
 - [Данные за первый день теста](https://code.s3.yandex.net/datasets/sessions_project_test_part.csv)
 - [Данные за весь период теста](https://code.s3.yandex.net/datasets/sessions_project_test.csv)
-- [Репозиторий с проектом](https://raw.githubusercontent.com/nastxqd/yandex_practicum_projects/refs/heads/main/recommendation-system-ab-test/8127be3c-f13f-4713-b2a1-2fe150ec9d49.ipynb) 
+- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects/blob/f35e8db2f6f22669adb3b8e691f2d60ddc1754e7/recommendation-system-ab-test/8127be3c-f13f-4713-b2a1-2fe150ec9d49.ipynb) 
 
 
 ---
