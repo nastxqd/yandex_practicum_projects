@@ -174,7 +174,7 @@
 
 ## 📎 Ссылки
 - [Исходные данные](https://code.s3.yandex.net/datasets/new_games.csv)
-- [Репозиторий с проектом](gaming-industry-analysis-2000-2013/f0bfbbdc-2b65-4a4d-896d-8e3f71a43bc8.ipynb)
+- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects/blob/d4d49de77cb715b96fd3066f07e09d14ac0051b1/gaming-industry-analysis-2000-2013/f0bfbbdc-2b65-4a4d-896d-8e3f71a43bc8.ipynb)
 - [ESRB — система возрастных рейтингов](https://www.esrb.org/)
 
 ---
