@@ -248,7 +248,7 @@
 - [Данные Яндекс Книги](https://code.s3.yandex.net/datasets/yandex_knigi_data.csv)
 - [Участники A/B-теста](https://code.s3.yandex.net/datasets/ab_test_participants.csv)
 - [События A/B-теста](https://code.s3.yandex.net/datasets/ab_test_events.zip)
-- [Репозиторий с проектом](#) *(добавьте ссылку)*
+- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects/blob/31fa2b61a6a66429c3fa59e43f25bce8c9acb720/yandex-book-hypothesis-testing/3d84b60f-7a55-4072-b4e8-513f9e01a0f3.ipynb)
 
 ---
 
