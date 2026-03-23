@@ -217,7 +217,7 @@
 ## 📎 Ссылки
 - [Исходные данные](https://code.s3.yandex.net/datasets/rest_info.csv)
 - [Данные о ценах](https://code.s3.yandex.net/datasets/rest_price.csv)
-- [Репозиторий с проектом](moscow-restaurants-analysis/476ed44b-a2e1-441a-8977-7e93efc932dd.ipynb)
+- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects/blob/fc6de8f879c8599b48e5e001221498d84b7fc789/moscow-restaurants-analysis/476ed44b-a2e1-441a-8977-7e93efc932dd.ipynb)
 
 ---
 
