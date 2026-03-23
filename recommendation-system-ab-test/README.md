@@ -177,7 +177,8 @@
 - [Исторические данные](https://code.s3.yandex.net/datasets/sessions_project_history.csv)
 - [Данные за первый день теста](https://code.s3.yandex.net/datasets/sessions_project_test_part.csv)
 - [Данные за весь период теста](https://code.s3.yandex.net/datasets/sessions_project_test.csv)
-- [Репозиторий с проектом](#) *(добавьте ссылку)*
+- [Репозиторий с проектом](https://raw.githubusercontent.com/nastxqd/yandex_practicum_projects/refs/heads/main/recommendation-system-ab-test/8127be3c-f13f-4713-b2a1-2fe150ec9d49.ipynb) 
+
 
 ---
 
