@@ -273,8 +273,10 @@
 
 ---
 ## Примеры визуализаций
-Продажи по типу мероприятия: сравнение Лето vs Осень (<img width="1037" height="351" alt="image" src="https://github.com/user-attachments/assets/b616235a-873a-4c1a-a259-b7b3d7817f5e" />
-)
+<img width="1037" height="351" alt="image" src="https://github.com/user-attachments/assets/b616235a-873a-4c1a-a259-b7b3d7817f5e" />
+<img width="1087" height="757" alt="image" src="https://github.com/user-attachments/assets/4493c036-4e8c-47f4-8d8b-f92c7b355455" />
+<img width="1407" height="519" alt="image" src="https://github.com/user-attachments/assets/25a0e442-e868-40c0-8482-7b09f148121b" />
+
 ---
 
 ## 📎 Ссылки
