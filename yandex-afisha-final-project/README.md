@@ -280,7 +280,7 @@
 ---
 
 ## 📎 Ссылки
-- [Репозиторий с проектом](https://github.com/nastxqd/yandex_practicum_projects)
+- [Репозиторий с проектом]([https://github.com/nastxqd/yandex_practicum_projects](https://github.com/nastxqd/yandex_practicum_projects/blob/66e85e5eaa7596279c98c5f85d51e6a8c2449d72/yandex-afisha-final-project/47fadefe-eb8f-4a35-9263-db36a7bde657.ipynb))
 
 ## ✉️ Автор
 **Анастасия Андриянова**  
