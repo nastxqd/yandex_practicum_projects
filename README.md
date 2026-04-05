@@ -16,7 +16,7 @@
 
 Анализ рынка недвижимости Санкт-Петербурга и области на основе данных Яндекс.Недвижимость. Выявлены ключевые факторы, влияющие на стоимость объектов.
 
-- [Перейти к проекту](./real-estate-dashboard/README.md)
+- [Перейти к проекту](https://github.com/nastxqd/yandex_practicum_projects/tree/411be2f12fdb7ab0bd6a4a09610fa84fb2461206/analyze-real-estate)
 
 ---
 
