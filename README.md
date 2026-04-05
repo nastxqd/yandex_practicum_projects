@@ -26,7 +26,7 @@
 
 Анализ исторических данных о продажах игр, платформах и жанрах. Исследованы региональные предпочтения и динамика развития индустрии.
 
-- [Перейти к проекту](./gaming-industry/README.md)
+- [Перейти к проекту](https://github.com/nastxqd/yandex_practicum_projects/tree/40dc7f17549cbbdfb4505cbf3c6e13bbfd672657/gaming-industry-analysis-2000-2013)
 
 ---
 
